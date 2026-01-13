@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Chave de fenda -->
+  <path d="M20 44L44 20" stroke="#2563eb" stroke-width="6" stroke-linecap="round"/>
+  <path d="M44 20L50 14C52 12 52 8 50 6C48 4 44 4 42 6L36 12" stroke="#2563eb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="18" cy="46" r="8" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
+  
+  <!-- Chave inglesa -->
+  <path d="M44 44L20 20" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
+  <path d="M20 20L14 14C12 12 12 8 14 6C16 4 20 4 22 6L28 12" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 44L52 52C54 54 54 58 52 60C50 62 46 62 44 60L40 56" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
